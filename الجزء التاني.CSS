@@ -1,0 +1,39 @@
+body{
+    background-image: url("H:\picture/.trashed-1675786063-Picsart_23-01-08_17-57-17-379.jpg");
+    height:100%;
+    background-repeat: no-repeat;
+    background-position-x: 1px;
+    background-position-y: 8px;;
+   background-size: 100%;
+}
+
+.prg{
+    border: 2px;
+    text-align: center;
+  background-color: rgba(13, 111, 224, 0.336) ;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2px;;
+  line: height 20px; ;
+  font-size: 90%;
+}
+#EE:hover{
+    font-size:110%;
+    color: blueviolet;
+}
+#tu:hover{
+    font-size:110%;
+
+}
+#color:hover{
+    font-size: 110%;
+    color: blueviolet;}
+.prg:hover{
+font-size: 100%;
+font-weight: bold;
+background-color: rgba(189, 20, 211, 0.24);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .pop{
+        text-align: center;
+    }
+   
